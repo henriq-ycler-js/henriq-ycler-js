@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou Henrique
 
-<p align="center">
-  <img src="https://postimg.cc/QBcfYBMw" width="900" alt="Omega CD Rebaixado">
-</p>
+<h3 align="center">👨‍💻 Estudante de cyber segurança 👨‍💻</h3>
 
 <h3 align="center">💻 Desenvolvedor de Software 💻</h3>
 
